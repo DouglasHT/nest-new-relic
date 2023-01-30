@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A Nest Api using PgSql, DDD, TypeOrm, Clean Architecture, Clean Code and New Relic
 
 ## Installation
 
